@@ -87,3 +87,5 @@ testter.gk
 myhomee.tk
 Testing.com
 bucket.com
+myhomee.tk
+testter.gk
